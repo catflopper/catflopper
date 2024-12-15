@@ -1,5 +1,7 @@
 <center><h1>Hello everyone!</h1></center>
 <hr>
-<p>Python coder</p>
-<p>HTML/JS/CSS sites creator</p>
+<h1>i know</h1>
+<ul>python</ul>
+<ul>HTML</ul>
+<p>and....</p>
 <p>linux user?!</p>
